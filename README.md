@@ -6,4 +6,6 @@ The java client is basically just sending an Ip and waiting for the response (al
 
 It also has a JavaScript Client in my repositories called JSClient that works with this server.
 
+This was made for Distributed Systems @ Uminho
+
 
